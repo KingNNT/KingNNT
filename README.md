@@ -6,6 +6,32 @@ Contact Me:
 - Facebook: [KingggNNT](https://www.facebook.com/KingggNNT)
 - Page: [Developer KingNNT](https://www.facebook.com/Dev.KingNNT)
 
+### Languages and Tools:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />
+
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/bootstrap.svg" />
+
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg" />
+
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftsqlserver.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" />
+
+
+<br>
+<br>
+
+---
 
 # Github Stats
 
