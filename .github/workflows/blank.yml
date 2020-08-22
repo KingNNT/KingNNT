@@ -1,4 +1,4 @@
-- name: Waka - Readme
+  name: Waka - Readme
   # You may pin to the exact commit or the version.
   # uses: athul/waka-readme@aaff45b1d4b4629eec06b3fca64a56e40b10ee5c
   uses: athul/waka-readme@v0.1.4
