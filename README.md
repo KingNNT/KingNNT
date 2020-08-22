@@ -1,5 +1,3 @@
-[![Years Badge](https://badges.pufler.dev/years/KingNNT)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/KingNNT)](https://badges.pufler.dev)
-
 ### Hi there 👋
 Contact Me:
 - Email: Dev.KingNNT@gmail.com
@@ -32,7 +30,7 @@ Contact Me:
 <br>
 
 ---
-
+## Development Stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -40,7 +38,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-# Github Stats
+## Github Stats
 
 *NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
 
@@ -56,5 +54,5 @@ No Activity tracked this Week
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KingNNT&repo=MS-Tools&theme=gruvbox" />
 </a>
 
-# Visitor Count
+## Visitor Count
 <img src="https://profile-counter.glitch.me/KingNNT/count.svg" />
