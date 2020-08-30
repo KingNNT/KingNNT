@@ -1,4 +1,4 @@
-### Hi there 👋
+# Introduction 👋
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -7,7 +7,7 @@
 <br>
 <br>
 
-### Languages and Tools:
+# Languages and Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
@@ -28,13 +28,12 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" />
 
-
 <br>
 <br>
 
 ---
 
-## Development Stats
+# Development Stats
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -97,7 +96,7 @@ Windows                  2 hrs 11 mins       █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## Github Stats
+# Github Stats
 
 *NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
 
@@ -113,5 +112,5 @@ Windows                  2 hrs 11 mins       █░░░░░░░░░░�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KingNNT&repo=MS-Tools&theme=gruvbox" />
 </a>
 
-## Visitor Count
+# Visitor Count
 <img src="https://profile-counter.glitch.me/KingNNT/count.svg" />
