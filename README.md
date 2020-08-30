@@ -35,7 +35,7 @@ Contact Me:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 917 Contributions in the Year 2020
+> 🏆 918 Contributions in the Year 2020
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
