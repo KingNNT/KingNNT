@@ -39,7 +39,7 @@ Contact Me:
  > 
 > 📦 1.6 MB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories
  > 
