@@ -104,7 +104,7 @@ Windows                  4 hrs 28 mins       ███░░░░░░░░�
 </a>
 
 <a href="https://github.com/KingNNT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingNNT&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingNNT&layout=compact&theme=gruvbox&count_private=true&how_icons=true" />
 </a>
 
 <a href="https://github.com/KingNNT">
