@@ -93,6 +93,7 @@ Windows                  4 hrs 28 mins       ███░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+---
 
 # Github Stats
 
