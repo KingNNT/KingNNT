@@ -13,12 +13,12 @@ Donate me at:
 
 
 
-| Wallet | Account Name | Phone Number | QR Code
-|--|--|--|--|
-| Momo | NINH NGOC TUAN | 0946499390 | |
-| ZaloPay | NINH NGOC TUAN | 0946499390 | |
-| ViettelPay | NINH NGOC TUAN | 0946499390 | |
-| AirPay | NINH NGOC TUAN | 0946499390 | |
-| Moca | NINH NGOC TUAN | 0946499390 | |
-| VNPTPay | NINH NGOC TUAN | 0946499390 | |
+| Wallet | Account Name | Phone Number | QR Code | Link |
+|--|--|--|--|--|
+| Momo | NINH NGOC TUAN | 0946499390 | | https://nhantien.momo.vn/dD222YGYEEB |
+| ZaloPay | NINH NGOC TUAN | 0946499390 | | |
+| ViettelPay | NINH NGOC TUAN | 0946499390 | | |
+| AirPay | NINH NGOC TUAN | 0946499390 | | |
+| Moca | NINH NGOC TUAN | 0946499390 | | |
+| VNPTPay | NINH NGOC TUAN | 0946499390 | | |
 
