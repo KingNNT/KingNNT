@@ -1,8 +1,7 @@
 Hi guys.
+
 Donate me at:
  - Bank
-
-
 
 | ID | Bank | Bank Account Number | Account Name | Branch |
 |--|--|--|--|--|
@@ -10,8 +9,6 @@ Donate me at:
 | 2 | MBBank | 9704229230749264 | NINH NGOC TUAN | Dien Bien Phu |
 
 - Electronic Wallet
-
-
 
 | ID | Wallet | Account Name | Phone Number | QR Code | Link | Note |
 |--|--|--|--|--|--|--|
