@@ -14,13 +14,13 @@ Donate me at:
 
 | ID | Wallet | Account Name | Phone Number | QR Code | Link | Note |
 |--|--|--|--|--|--|--|
-| 1 | Momo | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeMomo.jpg" alt="Momo" height="32"> | https://nhantien.momo.vn/dD222YGYEEB | Suggest
-| 2 | ZaloPay | NINH NGOC TUAN | 0946499390 | | | Suggest|
-| 3 | ViettelPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeZaloPay.jpg" alt="ZaloPay" height="24"> | | Suggest |
-| 4 | AirPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeAirPay.jpg" alt="AirPay" height="24"> | | Suggest |
-| 5 | Paypal | NINH NGOC TUAN | | | https://paypal.me/DevKingNNT | Not Suggest |
-| 6 | Moca | NINH NGOC TUAN | 0946499390 | | | Not Use |
-| 7 | VNPTPay | NINH NGOC TUAN | 0946499390 | | | Not Use |
+| 1 | AirPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeAirPay.jpg" alt="AirPay" height="24"> | | Suggest |
+| 2 | Momo | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeMomo.jpg" alt="Momo" height="32"> | https://nhantien.momo.vn/dD222YGYEEB | Suggest
+| 3 | Moca | NINH NGOC TUAN | 0946499390 | | | Not Use |
+| 4 | Paypal | NINH NGOC TUAN | | | https://paypal.me/DevKingNNT | Not Suggest |
+| 5 | VNPTPay | NINH NGOC TUAN | 0946499390 | | | Not Use |
+| 6 | ViettelPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeZaloPay.jpg" alt="ZaloPay" height="24"> | | Suggest |
+| 7 | ZaloPay | NINH NGOC TUAN | 0946499390 | | | Suggest|
 
 <br/><br/>
 
