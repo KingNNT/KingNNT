@@ -18,7 +18,7 @@ Donate me at:
 | 2 | ZaloPay | NINH NGOC TUAN | 0946499390 | | | Suggest|
 | 3 | ViettelPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeZaloPay.jpg" alt="ZaloPay" height="24"> | | Suggest |
 | 4 | AirPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCodeAirPay.jpg" alt="AirPay" height="24"> | | Suggest |
-| 5 | Paypal | NINH NGOC TUAN | | | paypal.me/DevKingNNT | Not Suggest |
+| 5 | Paypal | NINH NGOC TUAN | | | https://paypal.me/DevKingNNT | Not Suggest |
 | 6 | Moca | NINH NGOC TUAN | 0946499390 | | | Not Use |
 | 7 | VNPTPay | NINH NGOC TUAN | 0946499390 | | | Not Use |
 
