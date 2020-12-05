@@ -49,9 +49,9 @@ I'm Web Developer
  > 
 > 💼 Opted to Hire
  > 
-> 📜 37 Public Repositories
+> 📜 37 Public Repositories 
  > 
-> 🔑 30 Private Repositories 
+> 🔑 30 Private Repositories  
 
 **I'm a Night 🦉** 
 
