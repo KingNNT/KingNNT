@@ -43,7 +43,7 @@ I'm Web Developer
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 2,028 Contributions in the Year 2020
+> 🏆 2,030 Contributions in the Year 2020
  > 
 > 📦 1.8 MB Used in Github's Storage 
  > 
