@@ -10,7 +10,7 @@ Donate me at:
 
 <br/><br/>
 
-- Electronic Wallet
+- E-Wallet
 
 | ID | Wallet | Account Name | Phone Number | QR Code | Link | Note |
 |--|--|--|--|--|--|--|
