@@ -45,7 +45,7 @@ I'm Web Developer
 
 > 🏆 287 Contributions in the Year 2021
  > 
-> 📦 1.8 MB Used in Github's Storage 
+> 📦 1.9 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
