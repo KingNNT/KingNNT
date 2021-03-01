@@ -3,8 +3,6 @@ Hi there ...
 
 My name is ***Ninh Ngoc Tuan***
 
-But you can call me KingNNT, because it is my nickname
-
 And ...
 
 I'm Web Developer
