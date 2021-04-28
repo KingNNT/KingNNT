@@ -12,7 +12,7 @@ I'm Web Developer
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ## My Website
-[https://kingnnt.me/]('https://kingnnt.me/')
+<a href="https://kingnnt.me/">https://kingnnt.me/</a>
 
 <img align='center' height='64' width="64" src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCode_MyProfile.svg" />
 
