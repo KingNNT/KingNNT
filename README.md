@@ -14,7 +14,7 @@ I'm Web Developer
 ## My Website
 <a href="https://kingnnt.me/">https://kingnnt.me/</a>
 
-<img align='center' height='64' width="64" src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCode_MyProfile.svg" />
+<img align='center' height='128' width="128" src="https://github.com/KingNNT/KingNNT/blob/master/Assets/QRCode/QRCode_MyProfile.svg" />
 
 # Languages and Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
