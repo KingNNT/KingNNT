@@ -27,6 +27,10 @@ I'm Web Developer
 
 <img align='center' height='128' width="128" src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/qrcodes/QRCode_DonateLink.svg" />
 
+## Card Visit
+
+<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/visitcards/VisitCard.svg" height="256px">
+
 # Languages and Tools:
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />
