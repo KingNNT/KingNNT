@@ -1,4 +1,4 @@
-# Introduction 👋
+# Introduction <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/hi.gif" height="32px">
 
 Hi there ...
 
@@ -13,13 +13,13 @@ I'm Web Developer
 | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/Gmail.svg" alt="Gmail logo" height="32">](mailto:Dev.KingNNT@gmail.com) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/kingnnt) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/King_NNT) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/facebook.svg" alt="Facebook logo" width="34">](https://facebook.com/Kinggg.NNT) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/Dev_KingNNT) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/stackoverflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/12560659/king-nnt) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/skype.svg" alt="Skype Logo" width="28">](https://join.skype.com/invite/eqRpzcC8cGsf) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/zalo.svg" alt="Zalo Logo" width="28">](https://zalo.me/kingnnt) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 
-## My Website
+## My Website <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/developer.gif" height="32px">
 
 <a href="https://kingnnt.me/" height="64">https://kingnnt.me/</a>
 
 <img align='center' height='128' width="128" src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/qrcodes/QRCode_MyProfile.svg" />
 
-## Donate me:
+## Donate me <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/pointDown.gif" height="32px">
 
 <a href="https://github.com/KingNNT/KingNNT/blob/master/Donate.md">Donate <3</a>
 
