@@ -14,7 +14,7 @@ Donate me at:
 
 | ID | Wallet | Account Name | Phone Number | QR Code | Link | Note |
 |--|--|--|--|--|--|--|
-| 1 | AirPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/qrodes/QRCodeAirPay.jpg" alt="AirPay" height="24"> | | Suggest |
+| 1 | AirPay | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/qrcodes/QRCodeAirPay.jpg" alt="AirPay" height="24"> | | Suggest |
 | 2 | Momo | NINH NGOC TUAN | 0946499390 | <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/qrcodes/QRCodeMomo.jpg" alt="Momo" height="32"> | https://nhantien.momo.vn/dD222YGYEEB | Suggest
 |~~3~~ | ~~Moca~~ | ~~NINH NGOC TUAN~~ | ~~0946499390~~ | | | ~~Not Use~~ |
 | 4 | Paypal | NINH NGOC TUAN | | | https://paypal.me/DevKingNNT | Not Suggest |
