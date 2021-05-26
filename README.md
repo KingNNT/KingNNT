@@ -19,7 +19,7 @@ I'm Web Developer
 
 <img align='center' height='128' width="128" src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/qrcodes/QRCode_MyProfile.svg" />
 
-## Donate me <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/pointDown.gif" height="32px">
+## Donate me <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/coin.gif" height="32px">
 
 <a href="https://github.com/KingNNT/KingNNT/blob/master/Donate.md">
   <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/happy.gif" height="32px"> Link Donate
