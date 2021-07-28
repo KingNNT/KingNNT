@@ -21,8 +21,8 @@ If you need to talk about work please contact me
 
 ## Donate me <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/coin.gif" height="32px">
 
-<a href="https://github.com/KingNNT/KingNNT/blob/master/Donate.md">
-  <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/donate.gif" height="32px"> Link Donate
+<a align='center' href="https://github.com/KingNNT/KingNNT/blob/master/Donate.md">
+  <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/donate.gif" height="32px">
 </a>
 
 <img align='center' height='128' width="128" src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/qrcodes/QRCode_DonateLink.svg" />
