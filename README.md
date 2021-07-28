@@ -1,12 +1,12 @@
 # Introduction <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/hi.gif" height="32px">
 
-Hi there ...
+Hi everybody.
 
-My name is **_Ninh Ngoc Tuan_**
+I'm **Tuấn**.
 
-And ...
+I'm a software engineer. Currently, my orientation is a web developer. But my team can handle desktop app, mobile app, 3rd party app, etc.
 
-I'm Web Developer
+If you need to talk about work please contact me
 
 # About Me <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/Handshake.gif" height="32px">
 
