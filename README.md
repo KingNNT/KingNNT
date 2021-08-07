@@ -54,15 +54,15 @@ If you need to talk about work please contact me
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 953 Contributions in the Year 2021
+> 🏆 963 Contributions in the Year 2021
  > 
 > 📦 1.9 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 46 Private Repositories  
+> 🔑 47 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
