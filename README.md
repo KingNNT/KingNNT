@@ -29,87 +29,71 @@ If you need to talk about work please contact me
 
 # Languages and Tools:
 
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
-
-<br />
+| <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" /> |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
 
 # Development Stats
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+
+**🐱 My Github Data**
 
 > 🏆 984 Contributions in the Year 2021
- > 
-> 📦 1.9 MB Used in Github's Storage 
- > 
+>
+> 📦 1.9 MB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 49 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 39 Public Repositories
+>
+> 🔑 49 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    344 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-🌆 Daytime    692 commits    █████████░░░░░░░░░░░░░░░░   37.55% 
-🌃 Evening    526 commits    ███████░░░░░░░░░░░░░░░░░░   28.54% 
+🌞 Morning    344 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67%
+🌆 Daytime    692 commits    █████████░░░░░░░░░░░░░░░░   37.55%
+🌃 Evening    526 commits    ███████░░░░░░░░░░░░░░░░░░   28.54%
 🌙 Night      281 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       237 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-Tuesday      271 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Wednesday    296 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-Thursday     280 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Friday       253 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Saturday     230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
+Monday       237 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
+Tuesday      271 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
+Wednesday    296 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06%
+Thursday     280 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
+Friday       253 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
+Saturday     230 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
 Sunday       276 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.98%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-YAML                     2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.5% 
-Makefile                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-PHP                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+💬 Programming Languages:
+YAML                     2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.5%
+Makefile                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
+PHP                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
 Blade Template           40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
 
-🔥 Editors: 
-VS Code                  7 hrs 53 mins       █████████████████████████   99.54% 
+🔥 Editors:
+VS Code                  7 hrs 53 mins       █████████████████████████   99.54%
 DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    7 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
+Last Updated on 14/08/2021
 
- Last Updated on 14/08/2021
 <!--END_SECTION:waka-->
 
 ---
