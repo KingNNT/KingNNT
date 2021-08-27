@@ -45,9 +45,9 @@ If you need to talk about work please contact me
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 41 Public Repositories 
  > 
-> 🔑 47 Private Repositories  
+> 🔑 48 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
