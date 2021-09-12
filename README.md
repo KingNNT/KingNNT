@@ -39,7 +39,7 @@ If you need to talk about work please contact me
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,197 Contributions in the Year 2021
+> 🏆 1,195 Contributions in the Year 2021
  > 
 > 📦 1.9 MB Used in Github's Storage 
  > 
