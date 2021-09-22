@@ -37,11 +37,11 @@ If you need to talk about work please contact me
 # Development Stats
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 1,255 Contributions in the Year 2021
  > 
-> 📦 1.9 MB Used in Github's Storage 
+> 📦 1.9 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
