@@ -63,10 +63,10 @@ If you need to talk about work please contact me
 ```text
 Monday       246 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
 Tuesday      242 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Wednesday    286 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
+Wednesday    284 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
 Thursday     246 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
 Friday       209 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-Saturday     212 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Saturday     214 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
 Sunday       235 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02%
 
 ```
