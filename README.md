@@ -37,13 +37,13 @@ If you need to talk about work please contact me
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C848%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1,403 Contributions in the Year 2021
  > 
-> 📦 1.9 MB Used in GitHub's Storage 
+> 📦 2.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
