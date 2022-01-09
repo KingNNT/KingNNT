@@ -41,7 +41,7 @@ If you need to talk about work please contact me
 
 **🐱 My GitHub Data** 
 
-> 🏆 58 Contributions in the Year 2022
+> 🏆 54 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
