@@ -37,8 +37,6 @@ If you need to talk about work please contact me
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C038%20hrs%2023%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 77 Contributions in the Year 2022
@@ -94,7 +92,7 @@ Linux                    19 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 01/02/2022 16:58:57 UTC
+ Last Updated on 01/02/2022 17:41:45 UTC
 <!--END_SECTION:waka-->
 
 ---
