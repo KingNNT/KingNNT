@@ -37,7 +37,7 @@ If you need to talk about work please contact me
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C540%20hrs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -93,7 +93,7 @@ Linux                    37 hrs              ███████████�
 ```
 
 
- Last Updated on 27/05/2022 08:48:18 UTC
+ Last Updated on 27/05/2022 09:44:11 UTC
 <!--END_SECTION:waka-->
 
 ---
