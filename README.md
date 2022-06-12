@@ -37,20 +37,21 @@ If you need to talk about work please contact me
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%2019%20mins-blue)
 
-**📊 Global GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 188 contributions in 2022
-
-📦 2.0 MB used in GitHub's storage 
-
-📜 42 Public Repositories 
-
-🔑 53 Private Repositories  
+> 🏆 188 Contributions in the Year 2022
  > 
-**I'm an early 🐤** 
+> 📦 2.0 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 53 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    287 commits    ██████░░░░░░░░░░░░░░░░░░░   24.72% 
@@ -59,7 +60,7 @@ If you need to talk about work please contact me
 🌙 Night      94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1%
 
 ```
-📅 **I'm most productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
@@ -73,7 +74,7 @@ Sunday       194 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -93,7 +94,7 @@ Linux                    38 hrs 36 mins      ███████████�
 ```
 
 
- Last Updated on 12/06/2022 07:37:51 UTC
+ Last Updated on 12/06/2022 08:42:52 UTC
 <!--END_SECTION:waka-->
 
 ---
