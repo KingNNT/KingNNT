@@ -37,7 +37,7 @@ If you need to talk about work please contact me
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C823%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C823%20hrs%2043%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,7 +47,7 @@ If you need to talk about work please contact me
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 54 Private Repositories  
  > 
@@ -94,7 +94,7 @@ Linux                    34 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 15/07/2022 09:43:02 UTC
+ Last Updated on 15/07/2022 10:44:38 UTC
 <!--END_SECTION:waka-->
 
 ---
