@@ -41,8 +41,6 @@ If you need to talk about work please contact me
 
 **🐱 My GitHub Data** 
 
-> 🏆 222 Contributions in the Year 2022
- > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -93,7 +91,7 @@ Linux                    18 hrs 19 mins      ███████████�
 ```
 
 
- Last Updated on 30/08/2022 22:42:26 UTC
+ Last Updated on 30/08/2022 23:47:14 UTC
 <!--END_SECTION:waka-->
 
 ---
