@@ -2,7 +2,9 @@
 
 Hi everybody.
 
-I'm a software engineer. I have a lot of experience in developing web systems: e-commerce systems, online sales systems, management systems, ...
+I'm a software engineer.
+
+I have a lot of experience in developing web systems: e-commerce systems, online sales systems, management systems, ...
 
 # About Me <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/Handshake.gif" height="32px">
 
