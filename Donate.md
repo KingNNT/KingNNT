@@ -4,15 +4,16 @@ Donate me at:
 
 -   Bank
 
-| ID  | Bank        | Bank Account Number | Account Name   | Branch                  |
-| --- | ----------- | ------------------- | -------------- | ----------------------- |
-| 1   | VietinBank  | 101869255328        | NINH NGOC TUAN | Nam Thang Long - Hoi So |
-| 2   | BIDV        | 48610000596175      | NINH NGOC TUAN | THANH NAM               |
-| 3   | ViettelPay  | 9704229230749264    | NINH NGOC TUAN | Dien Bien Phu           |
-| 4   | MBBank      | 686806062000        | NINH NGOC TUAN |                         |
-| 5   | VPBank      | 241167388           | NINH NGOC TUAN |                         |
-| 6   | VPBank      | 1110606200068       | NINH NGOC TUAN |                         |
-| 7   | VietComBank | 1022509232          | NINH NGOC TUAN |                         |
+| ID    | Bank        | Bank Account Number | Account Name       | Branch                  | NOTE    |
+| ----- | ----------- | ------------------- | ------------------ | ----------------------- | ------- |
+| 1     | VietinBank  | 101869255328        | NINH NGOC TUAN     | Nam Thang Long - Hoi So |         |
+| 2     | BIDV        | 48610000596175      | NINH NGOC TUAN     | THANH NAM               |         |
+| 3     | ViettelPay  | 9704229230749264    | NINH NGOC TUAN     | Dien Bien Phu           |         |
+| 4     | MBBank      | 686806062000        | NINH NGOC TUAN     |                         |         |
+| 5     | VPBank      | 241167388           | NINH NGOC TUAN     |                         |         |
+| ~~6~~ | ~~VPBank~~  | ~~1110606200068~~   | ~~NINH NGOC TUAN~~ |                         | Not use |
+| ~~7~~ | ~~VPBank~~  | ~~0946499390~~      | ~~NINH NGOC TUAN~~ |                         | Not use |
+| 8     | VietComBank | 1022509232          | NINH NGOC TUAN     |                         |         |
 
 <br/>
 
