@@ -21,9 +21,9 @@ I have a lot of experience in developing web systems: e-commerce systems, online
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C532%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C535%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.3%20million%20lines%20of%20code-blue)
 
@@ -31,7 +31,7 @@ I have a lot of experience in developing web systems: e-commerce systems, online
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2023
+> 🏆 153 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -66,18 +66,18 @@ Sunday                   1266 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Vue.js                   7 hrs 19 mins       █████████████░░░░░░░░░░░░   50.91 % 
-TypeScript               3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Vue.js                   8 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.85 % 
+TypeScript               5 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 2 mins       █████████████████████░░░░   83.78 % 
-VS Code                  2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Neovim                   14 hrs 42 mins      █████████████████████░░░░   85.13 % 
+VS Code                  2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 
 💻 Operating System: 
-Linux                    14 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2023 01:05:30 UTC
+ Last Updated on 25/11/2023 01:03:32 UTC
 <!--END_SECTION:waka-->
 
 ---
