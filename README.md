@@ -21,7 +21,7 @@ I have a lot of experience in developing web systems: e-commerce systems, online
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C749%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C751%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,13 +66,17 @@ Sunday                   1269 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               54 mins             ██████████░░░░░░░░░░░░░░░   39.66 % 
+Vue.js                   51 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
+conf                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+fugitiveblame            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +92,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2024 01:02:41 UTC
+ Last Updated on 16/02/2024 01:02:18 UTC
 <!--END_SECTION:waka-->
 
 ---
