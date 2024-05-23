@@ -21,9 +21,9 @@ I have a lot of experience in developing web systems: e-commerce systems, online
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C941%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C948%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.3%20million%20lines%20of%20code-blue)
 
@@ -66,17 +66,17 @@ Sunday                   1269 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Docker                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-YAML                     2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-JavaScript               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-conf                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+TypeScript               4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Docker                   3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+YAML                     3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+conf                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 31 mins      █████████████████████████   100.00 % 
+Neovim                   16 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2024 01:08:37 UTC
+ Last Updated on 23/05/2024 01:06:48 UTC
 <!--END_SECTION:waka-->
 
 ---
