@@ -21,7 +21,7 @@ I have a lot of experience in developing web systems: e-commerce systems, online
 # Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C953%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C958%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -30,8 +30,6 @@ I have a lot of experience in developing web systems: e-commerce systems, online
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
- > 
-> 🏆 26 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -66,17 +64,18 @@ Sunday                   1269 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               8 hrs 44 mins       ██████████████░░░░░░░░░░░   56.33 % 
-Docker                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-YAML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-CSS                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+TypeScript               11 hrs 46 mins      ████████████████░░░░░░░░░   62.26 % 
+Docker                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+CSS                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+YAML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 30 mins      █████████████████████████   100.00 % 
+Neovim                   18 hrs 51 mins      █████████████████████████   99.77 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      15 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +91,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2024 01:08:55 UTC
+ Last Updated on 28/05/2024 01:08:45 UTC
 <!--END_SECTION:waka-->
 
 ---
