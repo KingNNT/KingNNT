@@ -1,6 +1,7 @@
 ## Introduction <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/hi.gif" height="32px">
 
 Hi there! 👋 I'm Tuan Ninh Ngoc
+
 Senior Fullstack Software Engineer with 5+ years of experience building scalable web applications and AI-integrated systems.
 
 🚀 What I do:
@@ -116,7 +117,3 @@ _NOTE: Top languages does not indicate my skill level or which language I use th
 <a href="https://github.com/KingNNT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KingNNT&repo=MS-Tools&theme=gruvbox" />
 </a>
-
-# Visitor Count
-
-<img src="https://profile-counter.glitch.me/KingNNT/count.svg" />
