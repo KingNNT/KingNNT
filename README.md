@@ -1,24 +1,27 @@
-# Introduction <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/hi.gif" height="32px">
+## Introduction <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/hi.gif" height="32px">
 
-Hi everybody.
+Hi there! 👋 I'm Tuan Ninh Ngoc
+Senior Fullstack Software Engineer with 5+ years of experience building scalable web applications and AI-integrated systems.
 
-I'm a software engineer.
+🚀 What I do:
 
-I have a lot of experience in developing web systems: e-commerce systems, online sales systems, management systems, ...
+- Frontend: ReactJS, NextJS, VueJS, TypeScript
+- Backend: Python (FastAPI, Django), PHP (Laravel), Node.js
+- AI Integration: Document processing, chatbots, automation systems
+- Cloud & DevOps: AWS, Azure, Docker, Kubernetes
 
-# About Me <img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/gifs/Handshake.gif" height="32px">
+📫 Let's connect:
 
-| [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/Gmail.svg" alt="Gmail logo" height="32">](mailto:Dev.KingNNT@gmail.com) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/kingnnt) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/King_NNT) | [<img src="https://github.com/KingNNT/KingNNT/blob/master/assets/images/icons/skype.svg" alt="Skype Logo" width="28">](https://join.skype.com/invite/eqRpzcC8cGsf) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+- Email: [Dev.KingNNT@gmail.com](mailto:Dev.KingNNT@gmail.com)
+- LinkedIn: [linkedin.com/in/kingnnt](https://www.linkedin.com/in/kingnnt/)
 
-# Languages and Tools:
+Location: Hanoi, Vietnam
 
-| <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" /> | <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" /> |
-| :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+Always excited to collaborate on innovative projects and contribute to open source! ✨
 
 ---
 
-# Development Stats
+## Development Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C166%20hrs%2044%20mins-blue)
@@ -98,7 +101,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 ---
 
-# Github Stats
+## Github Stats
 
 _NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!_
 
